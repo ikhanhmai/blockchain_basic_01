@@ -1,0 +1,7 @@
+body{background-color: aliceblue;}
+#header, h1, h3, #members, div, table{text-align: center;}
+#members{
+  margin-left: auto;
+  margin-right: auto;
+}
+tr,td{border: 1px solid black; padding: 8px;}

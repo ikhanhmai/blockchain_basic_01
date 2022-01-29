@@ -1,0 +1,14 @@
+{
+    "domain":"http://localhost:3000",
+    "mail":{
+        "server":"",
+        "port":"",
+        "username":"",
+        "password":""
+    },
+    "mongoose":{
+        "server":"",
+        "username":"",
+        "password":""
+    }
+}
